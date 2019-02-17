@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScribeLabs.Connector.iCIMS", "ScribeLabs.Connector.iCIMS.csproj", "{E9AC61FA-35A4-440B-BA8C-129DD89CF2CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScribeLabs.Connector.iCIMS.Test", "..\Nate.Connector.CDK.Test\ScribeLabs.Connector.iCIMS.Test.csproj", "{E10D0F16-E0B9-4603-AF53-512400CC4CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9AC61FA-35A4-440B-BA8C-129DD89CF2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AC61FA-35A4-440B-BA8C-129DD89CF2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AC61FA-35A4-440B-BA8C-129DD89CF2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AC61FA-35A4-440B-BA8C-129DD89CF2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10D0F16-E0B9-4603-AF53-512400CC4CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10D0F16-E0B9-4603-AF53-512400CC4CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10D0F16-E0B9-4603-AF53-512400CC4CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10D0F16-E0B9-4603-AF53-512400CC4CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D5803E-D34A-45DA-A133-5C8E6E0336C7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\ScribeLabs.Connector.System.IO.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\ScribeLabs.Connector.System.IO.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\Scribe.Connector.Common.Reflection.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\System.ValueTuple.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\Scribe.Connector.Common.Reflection.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\System.ValueTuple.xml
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.System.IO.csprojResolveAssemblyReference.cache
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.System.IO.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.System.IO.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\obj\Debug\CDK.Common.StringMessages.resources
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.System.IO.csproj.GenerateResource.Cache

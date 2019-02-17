@@ -1,0 +1,5 @@
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.Tools\Trunk\Code\ScribeLabs.Connector.Tools\bin\Debug\ScribeLabs.Connector.Tools.dll
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.Tools\Trunk\Code\ScribeLabs.Connector.Tools\bin\Debug\ScribeLabs.Connector.Tools.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.Tools\Trunk\Code\ScribeLabs.Connector.Tools\obj\Debug\ScribeLabs.Connector.Tools.dll
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.Tools\Trunk\Code\ScribeLabs.Connector.Tools\obj\Debug\ScribeLabs.Connector.Tools.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.Tools\Trunk\Code\ScribeLabs.Connector.Tools\obj\Debug\ScribeLabs.Connector.Tools.csprojResolveAssemblyReference.cache

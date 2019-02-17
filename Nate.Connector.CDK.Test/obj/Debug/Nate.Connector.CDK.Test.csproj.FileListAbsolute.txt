@@ -1,0 +1,36 @@
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\ScribeLabs.Connector.Tools.Test.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\ScribeLabs.Connector.Tools.Test.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\Scribe.Core.ConnectorApi.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\Scribe.Core.Security.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\ScribeLabs.Connector.Tools.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\Scribe.Core.Common.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\bin\Debug\ScribeLabs.Connector.Tools.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\obj\Debug\Nate.Connector.CDK.Test.csprojResolveAssemblyReference.cache
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\obj\Debug\ScribeLabs.Connector.Tools.Test.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools.Test\obj\Debug\ScribeLabs.Connector.Tools.Test.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\Scribe.Core.ConnectorApi.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\Scribe.Core.Security.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\Scribe.Core.Common.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\obj\Debug\Nate.Connector.CDK.Test.csprojResolveAssemblyReference.cache
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\Nate.Connector.CDK.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\bin\Debug\Nate.Connector.CDK.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\obj\Debug\Nate.Connector.CDK.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK.Test\obj\Debug\Nate.Connector.CDK.pdb

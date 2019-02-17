@@ -1,0 +1,9 @@
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools\bin\Debug\ScribeLabs.Connector.Tools.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools\bin\Debug\ScribeLabs.Connector.Tools.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools\obj\Debug\ScribeLabs.Connector.Tools.dll
+C:\Users\nkeefe\Documents\G2\Adapters\Nate.Connector.Skeleton\Trunk\Code\ScribeLabs.Connector.Tools\obj\Debug\ScribeLabs.Connector.Tools.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\obj\Debug\Nate.Connector.CDK.csprojResolveAssemblyReference.cache
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\Nate.Connector.CDK.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\bin\Debug\Nate.Connector.CDK.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\obj\Debug\Nate.Connector.CDK.dll
+C:\Users\nkeefe\Documents\G2\Adapters\CDK Skel Nate.Connector.Skeleton\Trunk\Code\Nate.Connector.CDK\obj\Debug\Nate.Connector.CDK.pdb

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E9AC61FA-35A4-440B-BA8C-129DD89CF2CE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CDK</RootNamespace>
+    <AssemblyName>ScribeLabs.Connector.iCIMS</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsTeamCityBuild Condition=" '$(TEAMCITY_PROJECT_NAME)' != '' ">True</IsTeamCityBuild>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>Scribe.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.12.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Scribe.Connector.Common.Reflection">
+      <HintPath>..\..\..\..\Scribe.Connector.Common\Trunk\Code\Scribe.Connector.Common.Reflection\bin\Debug\Scribe.Connector.Common.Reflection.dll</HintPath>
+    </Reference>
+    <Reference Include="Scribe.Core.ConnectorApi">
+      <HintPath>..\..\..\..\ConnectorDependencies\Scribe.Core.ConnectorApi.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\FormEncoding.cs" />
+    <Compile Include="Common\RestClient.cs" />
+    <Compile Include="Common\ExpressionParser.cs" />
+    <Compile Include="Common\RESTRequestException.cs" />
+    <Compile Include="Common\MethodInfo.cs" />
+    <Compile Include="Common\StringMessages.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StringMessages.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\EntityNames.cs" />
+    <Compile Include="Entities\Person.cs" />
+    <Compile Include="Service.cs" />
+    <Compile Include="Connector.cs" />
+    <Compile Include="MetadataProvider.cs" />
+    <Compile Include="ConnectionHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Scribe.snk" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common\StringMessages.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>StringMessages.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Condition=" $(IsTeamCityBuild) == True" Project="$(MSBuildExtensionsPath)\MSBuildCommunityTasks\MSBuild.Community.Tasks.Targets" />
+  <PropertyGroup Condition=" $(IsTeamCityBuild) == True">
+    <TeamCityRevisionNumber>$([MSBuild]::Modulo($(BUILD_NUMBER),65536))</TeamCityRevisionNumber>
+    <NormalizedNumber>$([MSBuild]::Subtract($(BUILD_NUMBER),$(TeamCityRevisionNumber)))</NormalizedNumber>
+    <TeamCityBuildNumber>$([MSBuild]::Divide($(NormalizedNumber),65536))</TeamCityBuildNumber>
+  </PropertyGroup>
+  <Target Name="BeforeBuild" Condition=" '$(TeamCityBuildNumber)' != '' ">
+    <ItemGroup>
+      <AssemblyInfoFiles Include="**\Properties\AssemblyInfo.cs" Exclude="**\.svn\**\*.*" />
+      <ConnectorFiles Include="**\.cs" />
+    </ItemGroup>
+    <Message Importance="high" Text="AssemblyInfo Files: $(AssemblyInfoFiles)" />
+    <FileUpdate Files="@(AssemblyInfoFiles)" Regex="(\[\s*assembly:\s*AssemblyFileVersion\(\s*&quot;[\d]+\.[\d]+)\.([\d]+)\.([\d]+)(&quot;\)\s*\])" ReplacementText="1.0.$(TeamCityBuildNumber).$(TeamCityRevisionNumber)" />
+  </Target>
+  <PropertyGroup Condition=" $(IsTeamCityBuild) == True">
+    <PreBuildEvent>UpdateConnectorVersion.exe "$(ProjectDir),1.0.$(TeamCityBuildNumber).$(TeamCityRevisionNumber)"</PreBuildEvent>
+  </PropertyGroup>
+</Project>

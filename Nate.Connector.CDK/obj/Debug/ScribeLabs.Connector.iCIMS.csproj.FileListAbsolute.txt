@@ -1,0 +1,16 @@
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\bin\Debug\ScribeLabs.Connector.iCIMS.dll
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\bin\Debug\ScribeLabs.Connector.iCIMS.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\bin\Debug\Scribe.Connector.Common.Reflection.dll
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\bin\Debug\System.ValueTuple.dll
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\bin\Debug\Scribe.Connector.Common.Reflection.pdb
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\bin\Debug\System.ValueTuple.xml
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.iCIMS.csprojAssemblyReference.cache
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\obj\Debug\CDK.Common.StringMessages.resources
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.iCIMS.csproj.GenerateResource.cache
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.iCIMS.csproj.CoreCompileInputs.cache
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.iCIMS.csproj.CopyComplete
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.iCIMS.dll
+C:\Users\nkeefe\Documents\G2\Adapters\ScribeLabs.Connector.iCIMS\Trunk\Code\Nate.Connector.CDK\obj\Debug\ScribeLabs.Connector.iCIMS.pdb
